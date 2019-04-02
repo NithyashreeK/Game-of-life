@@ -1,5 +1,7 @@
 # Game-of-life
 
+https://nithya10ga.000webhostapp.com/gof.html
+
 Transition occurs when:
 -Any live cell with fewer than two live neighbours dies, as if caused by underpopulation.
 -Any live cell with two or three live neighbours lives on to the next generation.
